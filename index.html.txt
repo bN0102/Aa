@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Обо мне</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Привет! Я [Твоё Имя]</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">Обо мне</a></li>
+                <li><a href="#portfolio">Портфолио</а></li>
+                <li><a href="#blog">Блог</a></li>
+                <li><a href="#contact">Контакты</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="about">
+            <h2>Обо мне</h2>
+            <p>Расскажи о себе, своем образовании, опыте, интересах и увлечениях.</p>
+        </section>
+
+        <section id="portfolio">
+            <h2>Портфолио</h2>
+            <p>Представь свои работы или проекты с кратким описанием.</p>
+        </section>
+
+        <section id="blog">
+            <h2>Блог</h2>
+            <p>Делись своими мыслями, статьями и идеями.</p>
+        </section>
+
+        <section id="contact">
+            <h2>Контакты</h2>
+            <p>Добавь контактную информацию или форму для связи.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 [Твоё Имя]. Все права защищены.</p>
+    </footer>
+
+    <script src="scripts.js"></script>
+</body>
+</html>
